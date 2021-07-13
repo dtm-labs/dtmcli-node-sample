@@ -1,0 +1,31 @@
+{
+  "name": "dtmcli-node-sample",
+  "version": "1.0.0",
+  "description": "a node sample for dtmcli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yedf/dtmcli-node-sample.git"
+  },
+  "keywords": [
+    "dtmcli",
+    "dtm",
+    "distributed-transaction",
+    "分布式事务"
+  ],
+  "author": "yedf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yedf/dtmcli-node-sample/issues"
+  },
+  "homepage": "https://github.com/yedf/dtmcli-node-sample#readme",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "dtmcli": "0.0.5",
+    "koa": "^2.13.1",
+    "koa-body": "^4.2.0"
+  }
+}
