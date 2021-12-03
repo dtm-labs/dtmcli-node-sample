@@ -4,7 +4,7 @@ const Router = require('@koa/router')
 const dtmcli = require("dtmcli")
 
 async function FireTcc() {
-  let dtm = "http://localhost:8080/api/dtmsvr" // dtm服务地址
+  let dtm = "http://localhost:36789/api/dtmsvr" // dtm服务地址
   let svc = "http://localhost:4005/api" // 本地服务前缀
   // 开启一个tcc事务，第二个参数里面，写全局事务的逻辑
   await dtmcli.tccGlobalTransaction(dtm, async (t) => {
