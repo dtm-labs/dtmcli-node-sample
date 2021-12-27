@@ -24,7 +24,7 @@
   "homepage": "https://github.com/yedf/dtmcli-node-sample#readme",
   "dependencies": {
     "@koa/router": "^10.0.0",
-    "dtmcli": "0.0.5",
+    "dtmcli": "^0.0.9",
     "koa": "^2.13.1",
     "koa-body": "^4.2.0"
   }
