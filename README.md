@@ -8,6 +8,7 @@ dtmcli的node使用示例
 
 参考[dtm安装运行](https://dtm.pub/guide/install.html)
 
+## 运行示例
 安装依赖
 
 ```bash
