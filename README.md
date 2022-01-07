@@ -4,15 +4,9 @@ dtmcli的node使用示例
 
 ## 快速开始
 
-### 部署启动dtm
+### 安装运行dtm
 
-需要docker版本20.04以上
-
-```bash
-git clone https://github.com/yedf/dtm
-cd dtm
-docker-compose up
-```
+参考[dtm安装运行](https://dtm.pub/guide/install.html)
 
 安装依赖
 
