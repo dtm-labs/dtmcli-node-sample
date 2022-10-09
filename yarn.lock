@@ -174,14 +174,13 @@ dottie@^2.0.2:
   resolved "https://registry.npmmirror.com/dottie/-/dottie-2.0.2.tgz#cc91c0726ce3a054ebf11c55fbc92a7f266dd154"
   integrity sha512-fmrwR04lsniq/uSr8yikThDTrM7epXHBAAjH9TbeH3rEA8tdCO7mRzB9hdmdGyJCxF8KERo9CITcm3kGuoyMhg==
 
-dtmcli@^0.0.11:
-  version "0.0.11"
-  resolved "https://registry.npmmirror.com/dtmcli/-/dtmcli-0.0.11.tgz#fe3c5e5d175ea343069b39c8d7a77151a663791c"
-  integrity sha512-rWlpnBnFNhlPGe5eWcWvAfm5mIRvMXW9URl74Uj7Us8PPuQQ/incTLz9sLdNwLMr4eeAeWb/iD+2CwM1uEKM8Q==
+dtmcli@^0.0.12:
+  version "0.0.12"
+  resolved "https://registry.npmmirror.com/dtmcli/-/dtmcli-0.0.12.tgz#3ce268419c6991d863cc79213ddbb5e623e9fd94"
+  integrity sha512-EUyZJyfkfEwOYUi0H7TXY2fVu7BW32osuk8RM/RwFqbtBiM8sbV3BlfsQq4o+YNGmXbMoPlornDBnjDGOq4REw==
   dependencies:
     axios "^1.1.2"
     reflect-metadata "^0.1.13"
-    sequelize "^6.24.0"
     typedjson "^1.8.0"
 
 ee-first@1.1.1:
